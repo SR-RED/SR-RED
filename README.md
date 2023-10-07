@@ -1,16 +1,46 @@
-### Hi there 👋
+# Matrix Selector
 
-<!--
-**SR-RED/SR-RED** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-Here are some ideas to get you started:
+Una página web simple para seleccionar matrices con estilo Matrix.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Demo
+
+👉 [Ver la Demo](https://tunombredeusuario.github.io/matrix-selector/)
+
+## Capturas de Pantalla
+
+![Captura 1](screenshots/screenshot1.png)
+![Captura 2](screenshots/screenshot2.png)
+
+## Características
+
+- Selección de matrices interactiva.
+- Diseño atractivo con tema Matrix.
+- Fácil de personalizar.
+
+## Cómo Usar
+
+1. Clona este repositorio:
+
+    ```bash
+    git clone https://github.com/tunombredeusuario/matrix-selector.git
+    ```
+
+2. Abre `index.html` en tu navegador.
+
+3. ¡Selecciona tu Matrix favorita!
+
+## Contribuciones
+
+¡Las contribuciones son bienvenidas! Por favor, sigue estos pasos:
+
+1. Haz un fork del repositorio.
+2. Crea una nueva rama: `git checkout -b feature/nueva-funcionalidad`.
+3. Haz tus cambios y haz un commit: `git commit -m 'Agrega nueva funcionalidad'`.
+4. Sube tus cambios: `git push origin feature/nueva-funcionalidad`.
+5. Abre un Pull Request.
+
+## Licencia
+
+Este proyecto está licenciado bajo la [Licencia MIT](LICENSE).
